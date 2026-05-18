@@ -1,0 +1,60 @@
+body {
+
+    font-family: Arial;
+    background: #111827;
+    color: white;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    height: 100vh;
+}
+
+.container {
+
+    background: #1f2937;
+
+    padding: 30px;
+
+    border-radius: 12px;
+
+    width: 500px;
+}
+
+input {
+
+    width: 100%;
+
+    padding: 12px;
+
+    margin-top: 10px;
+}
+
+button {
+
+    margin-top: 15px;
+
+    padding: 12px;
+
+    width: 100%;
+
+    background: #2563eb;
+
+    color: white;
+
+    border: none;
+
+    cursor: pointer;
+}
+
+#result {
+
+    margin-top: 20px;
+
+    background: #374151;
+
+    padding: 15px;
+
+    border-radius: 10px;
+}
